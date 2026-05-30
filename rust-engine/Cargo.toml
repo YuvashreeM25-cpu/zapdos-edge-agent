@@ -1,0 +1,10 @@
+[package]
+name = "rust-engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Standard math and data handling (No C++ dependency!)
+ndarray = "0.15"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

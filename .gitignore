@@ -1,0 +1,7 @@
+﻿target/
+models/*.gguf
+secret.key
+encrypted_key.bin
+gsheet_secret.json
+.streamlit/
+__pycache__/

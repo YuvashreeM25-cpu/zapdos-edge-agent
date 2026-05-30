@@ -1,0 +1,10 @@
+# Secrets
+secret.key
+encrypted_key.bin
+gsheet_secret.json
+
+# Build files
+target/
+__pycache__/
+.env
+.DS_Store
